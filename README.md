@@ -63,12 +63,6 @@ Currently building **[Soka](https://github.com/VizionDevs)** — a restaurant ma
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoPidji&theme=react-dark&hide_border=true&bg_color=0d1117&color=9f9f9f&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="49%" />
 </p>
 
-<h3 align="center">🏆 Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantiagoPidji&theme=onestar&no-bg=true&no-frame=true&column=7" width="80%" />
-</p>
-
 <h3 align="center">🐍 Contributions</h3>
 
 <p align="center">
